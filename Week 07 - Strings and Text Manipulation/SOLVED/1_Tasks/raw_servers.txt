@@ -1,0 +1,9 @@
+  Srv-01 , used=87 , total=100  
+SRV-02,USED=120,TOTAL=100
+   srv-03,used=45 ,total=100
+Srv-04 , Used = 93 , Total=100
+	sRv-05,   used=99.5,total=100   
+SRV-06 ,used= 12 , TOTAL = 50
+
+srv-07 , used=n/a , total=100
+SRV-08 , used=70 , total=100 , note=disk=full

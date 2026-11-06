@@ -15,7 +15,7 @@ Delete these instructions as you replace them with your code.
 # =================================================================== FUNCTIONS
 # 1. Write a function called status_of(percent) that returns "OVER LIMIT"
 #    (100% or more), "WARNING" (90% or more), or "OK" (anything else).
-#
+
 #    Typical and above: also write check(value, limit) that returns the
 #    difference and the percentage as two values - do not print anything
 #    inside it, only calculate and return.

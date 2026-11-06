@@ -1,0 +1,12 @@
+# Version A: key and value asked separately (pure Week 1)
+key1 = input("Key 1: ")
+value1 = input("Value 1: ")
+key2 = input("Key 2: ")
+value2 = input("Value 2: ")
+key3 = input("Key 3: ")
+value3 = input("Value 3: ")
+
+print("[config]")
+print(f"\t{key1} = {value1}")
+print(f"\t{key2} = {value2}")
+print(f"\t{key3} = {value3}")

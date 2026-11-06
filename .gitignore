@@ -1,6 +1,7 @@
 # Learning material: only each week's LAB folder is uploaded
 Week */*
 !Week */LAB/
+!Week */SOLVED/
 
 # Files that should never be uploaded
 .venv/
@@ -9,3 +10,7 @@ __pycache__/
 __MACOSX/
 .DS_Store
 .env
+# Not part of the coursework
+Programming_Problems/
+CST1510 MODULE HANDBOOK 2026-27.pdf
+.vscode/
